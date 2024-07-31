@@ -75,8 +75,6 @@ The project files are divided between the following folders:
 
 01 Project Management
 
-02 Data
-
 03 Scripts
 
 04 Analysis
